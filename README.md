@@ -2,10 +2,6 @@
 
 # dependency
 
-```bash
-sudo su
-```
-
 then
 ```bash
 # Just dependency
